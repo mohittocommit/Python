@@ -1,3 +1,5 @@
+#the following program take the student rollno, name and marks and stores it in the dictionary
+
 n=int(int(input("Enter n: "))) 
 d={}
 
